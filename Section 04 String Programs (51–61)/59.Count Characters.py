@@ -1,6 +1,6 @@
 # ---------------------------------------
 # Program 129: Count Characters  
-#Description:Counts all characters including letters, digits, and symbols.
+#Description:Counts all "Counts non-whitespace characters".
 # Author: Anugya Agrawal
 # ---------------------------------------
 STRING=input("ENTER THE STRING WHICH CHARACTERS NEED TO BE FIND-")

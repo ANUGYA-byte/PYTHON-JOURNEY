@@ -11,7 +11,7 @@ for i in range(CHOICE):
     ELEMENT=input('ENTER  ELEMENT-')
     LIST.append(ELEMENT)
 print("LIST-",LIST)
-LOCATION=list.index(SEARCH)
+LOCATION=LIST.index(SEARCH)
 print('LOCAION- ',LOCAION)
 
 # ---------------------------------------

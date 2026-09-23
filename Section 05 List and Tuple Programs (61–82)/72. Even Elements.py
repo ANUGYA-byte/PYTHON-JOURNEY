@@ -7,14 +7,12 @@ LIST = []
 EVENLIST=[]
 CHOICE=int(input('ENTER NUMBER OF ELEMENTS YOU WANT TO ENTER-'))
 for i in range(CHOICE):
-    
-    ELEMENT=int(input('ENTER  ELEMENT-'))
+    ELEMENT = int(input("ENTER ELEMENT-"))
     LIST.append(ELEMENT)
-    for k in LIST:
-     if k%2==0:
-       EVENLIST.append(k)
-print("LIST-",LIST)
-print('EVEN LIST - ',EVENLIST)
+
+for k in LIST:
+    if k % 2 == 0:
+        EVENLIST.append(k)
 
 # ---------------------------------------
 #SAMPLE -
