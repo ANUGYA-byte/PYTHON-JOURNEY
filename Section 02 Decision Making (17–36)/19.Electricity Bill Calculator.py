@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 32: Electricity Bill Calculator
+# Program 19: Electricity Bill Calculator
 # Description: Calculates electricity bill based on units consumed.
 # Author: Anugya Agrawal
 # ---------------------------------------

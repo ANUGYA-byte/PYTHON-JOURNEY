@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 33: Income Tax Calculator
+# Program 20: Income Tax Calculator
 # Description:Calculates income tax based on the given annual income and applicable tax rules.
 # Author: Anugya Agrawal
 # ---------------------------------------# ---------------------------------------
