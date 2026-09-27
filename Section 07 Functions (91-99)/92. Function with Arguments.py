@@ -3,12 +3,11 @@
 # Description:A function that accepts input values (parameters) to customize its behavior..  
 # Author: Anugya Agrawal
 # ---------------------------------------
-NAME=input('ENTER YOUR NAME-')
-def HEY():
-    
-    print('HEY',NAME)
+def HEY(name):
+    print("HEY", name)
 
-HEY()
+NAME = input("ENTER YOUR NAME- ")
+HEY(NAME)
 
 # ---------------------------------------
 #SAMPLE -

@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 34: BMI Calculator
+# Program 18: BMI Calculator
 # Description: Calculates BMI using weight and height.
 # Author: Anugya Agrawal
 # ---------------------------------------

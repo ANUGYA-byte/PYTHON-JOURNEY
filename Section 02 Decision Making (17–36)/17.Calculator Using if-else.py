@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 37: Calculator Using if-else
+# Program 17: Calculator Using if-else
 # Performs basic arithmetic operations using if-else statements.
 # Author: Anugya Agrawal
 # ---------------------------------------
