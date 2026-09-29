@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 97: Find Maximum Using Function
+# Program 96: Find Maximum Using Function
 # Description: Finds the maximum of three numbers using a function.
 # Author: Anugya Agrawal
 
