@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 121: Find String Length
+# Program 51: Find String Length
 # Description:   Returns the total number of characters in a string.
 # Author: Anugya Agrawal
 # ---------------------------------------

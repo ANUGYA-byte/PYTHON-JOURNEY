@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 122: Reverse String
+# Program 52: Reverse String
 # Description:   Produces the string with characters in reverse order.
 # Author: Anugya Agrawal
 # ---------------------------------------

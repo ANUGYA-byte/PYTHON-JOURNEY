@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 117: Number Guessing Game
+# Program 120: Number Guessing Game
 # Description: Allows the user to guess a randomly generated number.
 # Author: Anugya Agrawal
 # ---------------------------------------
