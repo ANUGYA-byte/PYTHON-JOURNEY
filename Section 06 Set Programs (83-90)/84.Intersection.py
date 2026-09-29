@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 192: Intersection  
+# Program 84: Intersection  
 # Description:Returns only elements common to both sets.
 # Author: Anugya Agrawal
 # ---------------------------------------
