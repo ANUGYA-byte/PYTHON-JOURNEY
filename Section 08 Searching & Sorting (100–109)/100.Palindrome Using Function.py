@@ -1,14 +1,18 @@
 # ---------------------------------------
-# Program 93: Palindrome Using Function
 # Description: Checks whether a number is a palindrome using a function.
 # Author: Anugya Agrawal
+# Program 100: Linear Search
 
-def is_palindrome(n):
-    return str(n) == str(n)[::-1]
+numbers = list(map(int, input("Enter numbers separated by space: ").split()))
+target = int(input("Enter the element to search: "))
 
-n = int(input("Enter a number: "))
+found = False
 
-if is_palindrome(n):
-    print("Palindrome Number")
-else:
-    print("Not a Palindrome Number")
+for i in range(len(numbers)):
+    if numbers[i] == target:
+        print("Element found at index:", i)
+        found = True
+        break
+
+if not found:
+    print("Element not found")

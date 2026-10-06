@@ -1,14 +1,26 @@
 # ---------------------------------------
-# Program 95: GCD Using Function
 # Description: Finds the GCD of two numbers using a function.
 # Author: Anugya Agrawal
+# Program 101: Binary Search
 
-def gcd(a, b):
-    while b:
-        a, b = b, a % b
-    return a
+numbers = list(map(int, input("Enter sorted numbers separated by space: ").split()))
+target = int(input("Enter the element to search: "))
 
-a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
+low = 0
+high = len(numbers) - 1
+found = False
 
-print("GCD =", gcd(a, b))
+while low <= high:
+    mid = (low + high) // 2
+
+    if numbers[mid] == target:
+        print("Element found at index:", mid)
+        found = True
+        break
+    elif numbers[mid] < target:
+        low = mid + 1
+    else:
+        high = mid - 1
+
+if not found:
+    print("Element not found")
