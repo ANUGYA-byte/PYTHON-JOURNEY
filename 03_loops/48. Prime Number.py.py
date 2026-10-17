@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 50: Prime Number
+# Program 48: Prime Number
 # Checks whether a number is prime.
 # Author: Anugya Agrawal
 # ---------------------------------------

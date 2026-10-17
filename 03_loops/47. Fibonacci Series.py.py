@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 49: Fibonacci Series 
+# Program 47: Fibonacci Series 
 # Sequence where each term is the sum of the two preceding ones
 # Author: Anugya Agrawal
 # ---------------------------------------

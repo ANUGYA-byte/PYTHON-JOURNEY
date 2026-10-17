@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 45:Sum of N Odd Numbers
+# Program 40:Sum of N Odd Numbers
 # Description:Calculates the sum of odd numbers up to N.
 # Author: Anugya Agrawal
 # ---------------------------------------

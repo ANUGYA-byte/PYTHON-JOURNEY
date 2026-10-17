@@ -1,9 +1,9 @@
 # ---------------------------------------
-# Program 51: Prime Numbers in a Range 
+# Program 41: Prime Numbers in a Range 
 # Description: Print all prime numbers between a given start and end value by checking each number in the range. A prime number is a number greater than 1 that has exactly two factors: 1 and itself.
 # Author: Anugya Agrawal
 # ---------------------------------------
-# Program 51: 
+
 
 start = int(input("Enter the starting number: "))
 end = int(input("Enter the ending number: "))

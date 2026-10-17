@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 44:Sum of N EvenNumbers
+# Program 39:Sum of N EvenNumbers
 # Description:Calculates the sum of even numbers up to N.
 # Author: Anugya Agrawal
 # ---------------------------------------

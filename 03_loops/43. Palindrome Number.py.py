@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 53: Palindrome Number  
+# Program 43: Palindrome Number  
 # Description: Check if a number reads the same both ways using str(num) == str(num)[::-1].
 # Author: Anugya Agrawal
 # ---------------------------------------

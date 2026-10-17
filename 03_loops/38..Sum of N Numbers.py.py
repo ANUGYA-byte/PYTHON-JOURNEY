@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 43:Sum of N Numbers
+# Program 38:Sum of N Numbers
 # Description:Finds the sum of the first N natural numbers.
 # Author: Anugya Agrawal
 # ---------------------------------------

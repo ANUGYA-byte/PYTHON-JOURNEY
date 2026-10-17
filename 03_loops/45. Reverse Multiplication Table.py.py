@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 47:  Reverse Multiplication Table 
+# Program 45:  Reverse Multiplication Table 
 # Description: Show multiplication results in descending order
 # Author: Anugya Agrawal
 # ---------------------------------------

@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 52: Reverse Number 
+# Program 42: Reverse Number 
 # Description: Reverse digits by string slicing str(num)[::-1] and convert back to integer.
 # Author: Anugya Agrawal
 # ---------------------------------------

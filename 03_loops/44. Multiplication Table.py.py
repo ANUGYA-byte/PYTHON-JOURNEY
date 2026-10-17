@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 46:  Multiplication Table 
+# Program 44:  Multiplication Table 
 # Description: Display products of a number with integers in sequence.
 # Author: Anugya Agrawal
 # ---------------------------------------

@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 48:  Factorial  
+# Program 46:  Factorial  
 # Description: Product of all positive integers up to a given number.
 # Author: Anugya Agrawal
 # ---------------------------------------

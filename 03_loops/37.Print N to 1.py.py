@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 42:Print N to 1
+# Program 37:Print N to 1
 # Description:Prints numbers from N down to 1 using a loop.
 # Author: Anugya Agrawal
 # ---------------------------------------

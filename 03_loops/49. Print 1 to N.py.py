@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 41:Print 1 to N
+# Program 49:Print 1 to N
 # Description:Prints numbers from 1 to N using a loop.
 # Author: Anugya Agrawal
 # ---------------------------------------
