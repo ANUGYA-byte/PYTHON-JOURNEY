@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 157:Second Smallest  
+# Program 72:Second Smallest  
 # Description:Find the element that is just larger than the minimum in a list.   
 # Author: Anugya Agrawal
 # ---------------------------------------

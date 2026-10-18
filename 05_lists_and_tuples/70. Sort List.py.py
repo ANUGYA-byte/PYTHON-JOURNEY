@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 159:Sort List   
+# Program 70:Sort List   
 # Description: Arrange elements in ascending/descending order
 # Author: Anugya Agrawal
 # ---------------------------------------
