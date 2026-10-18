@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 154: Maximum Element  
+# Program 65: Maximum Element  
 # Description: Finds the largest element present in a list. 
 # Author: Anugya Agrawal
 # ---------------------------------------

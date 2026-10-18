@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 186:Count Elements
+# Program 78:Count Elements
 # Description:  Use tuple.count(value) to count occurrences of an item
 # Author: Anugya Agrawal
 # ---------------------------------------

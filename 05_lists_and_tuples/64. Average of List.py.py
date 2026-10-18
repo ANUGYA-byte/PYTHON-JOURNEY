@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 153: Average 
+# Program 64: Average 
 # Description: Finds the average value of all elements in a list.
 # Author: Anugya Agrawal
 # ---------------------------------------

@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 152: Sum of List  
+# Program 63: Sum of List  
 # Description: Calculates the total of all elements in a list 
 # Author: Anugya Agrawal
 # ---------------------------------------

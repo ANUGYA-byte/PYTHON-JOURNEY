@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 156:Second Largest  
+# Program 67:Second Largest  
 # Description:  Find the element that is just smaller than the maximum in a list.
 # Author: Anugya Agrawal
 # ---------------------------------------

@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 155: Minimum Element  
+# Program 66: Minimum Element  
 # Description: Finds the smallest element present in a list. 
 # Author: Anugya Agrawal
 # ---------------------------------------

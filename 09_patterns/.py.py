@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 82: Rectangle
+# Program 110: Rectangle
 # Description: A quadrilateral with opposite sides equal and four right angles.
 # Author: Anugya Agrawal
 # ---------------------------------------

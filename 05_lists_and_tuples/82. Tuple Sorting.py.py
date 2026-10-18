@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 190: Tuple Sorting
+# Program 82: Tuple Sorting
 #Convert to list, sort with sorted(tuple), result is a new list.
 # Author: Anugya Agrawal
 # ---------------------------------------

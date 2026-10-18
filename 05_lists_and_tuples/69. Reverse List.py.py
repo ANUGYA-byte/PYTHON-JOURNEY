@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 158: .Reverse List  
+# Program 69: .Reverse List  
 # Description:Reverse order of elements using list[::-1] or list.reverse()
 # Author: Anugya Agrawal
 # ---------------------------------------

@@ -1,4 +1,3 @@
-
 # ---------------------------------------
 # Program 115:Inverted Pyramid
 # Description:A centered triangle pointing downward, stars shrinking symmetrically
