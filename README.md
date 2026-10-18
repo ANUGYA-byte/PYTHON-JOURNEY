@@ -1,149 +1,82 @@
 # 🐍 Python Journey
 
-A structured collection of **120 Python programs** created to build and strengthen my Python programming fundamentals through consistent practice and problem-solving.
+120 Python programs written to build my programming fundamentals, from first `print()` statements to sorting algorithms and small projects.
 
-> **120 / 120 Programs Completed ✅**
-
----
-
-## 🎯 About This Repository
-
-This repository documents my journey from basic Python syntax to more structured programming concepts including:
-
-* Conditional statements
-* Loops
-* Strings
-* Lists, tuples and sets
-* Functions
-* Searching and sorting
-* Pattern programming
-* Mini projects
-
-The goal was not simply to complete programs, but to **understand the concepts behind them and improve through consistent practice.**
+![Python](https://img.shields.io/badge/Python-3.x-blue) ![Programs](https://img.shields.io/badge/Programs-120-green) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
-## 📚 Topics Covered
+## 📚 Contents
 
-| Section | Topic               | Programs |
-| ------- | ------------------- | -------: |
-| 01      | Basic Programs      |     1–16 |
-| 02      | Decision Making     |    17–36 |
-| 03      | Loops               |    37–50 |
-| 04      | Strings             |    51–61 |
-| 05      | Lists & Tuples      |    62–82 |
-| 06      | Sets                |    83–90 |
-| 07      | Functions           |    91–99 |
-| 08      | Searching & Sorting |  100–109 |
-| 09      | Pattern Programs    |  110–116 |
-| 10      | Mini Projects       |  117–120 |
+| # | Section | Programs | What it covers |
+| - | ------- | -------- | -------------- |
+| 01 | [Basic Programs](01_Basic_Programs) | 1–16 | Variables, data types, input/output, operators |
+| 02 | [Decision Making](02_decision_making) | 17–36 | `if` / `elif` / `else`, nested conditions |
+| 03 | [Loops](03_loops) | 37–50 | `for`, `while`, `break`, `continue` |
+| 04 | [Strings](04_strings) | 51–61 | Slicing, methods, string manipulation |
+| 05 | [Lists & Tuples](05_lists_and_tuples) | 62–82 | Indexing, list operations, tuple handling |
+| 06 | [Sets](06_sets) | 83–90 | Set operations, uniqueness problems |
+| 07 | [Functions](07_functions) | 91–99 | Parameters, return values, recursion |
+| 08 | [Searching & Sorting](08_searching_and_sorting) | 100–109 | Linear/binary search, sorting algorithms |
+| 09 | [Pattern Programs](09_patterns) | 110–116 | Nested loops, star and number patterns |
+| 10 | [Mini Projects](10_mini_projects) | 117–120 | Combining everything into small apps |
 
----
-
-## 🧠 Skills Practiced
-
-* Python fundamentals
-* Variables and data types
-* Input and output
-* Operators
-* Conditional logic
-* Loops and iteration
-* String manipulation
-* Lists, tuples and sets
-* Functions and recursion
-* Searching algorithms
-* Sorting algorithms
-* Pattern programming
-* Problem-solving
-* Basic project development
-* Writing cleaner and more readable code
+A full list of programs is in [INDEX.pdf](INDEX.pdf).
 
 ---
 
 ## 🚀 Mini Projects
 
-Programs **117–120** focus on applying Python concepts to small practical projects.
+| # | Project | What it does |
+| - | ------- | ------------ |
+| 117 | _Project name_ | _One line describing it_ |
+| 118 | _Project name_ | _One line describing it_ |
+| 119 | _Project name_ | _One line describing it_ |
+| 120 | _Project name_ | _One line describing it_ |
 
-These projects helped me practice:
+**Sample run:**
 
-* Logical thinking
-* Functions and modular programming
-* User input and output
-* Problem-solving
-* Applying programming concepts to practical situations
-
----
-
-## 📈 Learning Journey
-
-This repository represents my progression from basic Python concepts to more structured programming.
-
-### Foundation
-
-Variables → Data Types → Input/Output → Operators
-
-### Logic Building
-
-Conditions → Loops → Strings → Collections
-
-### Problem Solving
-
-Functions → Recursion → Searching → Sorting
-
-### Application
-
-Patterns → Mini Projects → Practical Problem Solving
+```
+(paste a short example of one project's output here)
+```
 
 ---
 
-## 🏆 Progress
+## ▶️ How to Run
 
-**Python Programs:** 120 / 120 ✅
-
-**Foundation:** Completed
-**Problem Solving:** Strengthened
-**Searching & Sorting:** Practiced
-**Mini Projects:** Completed
-
----
-
-## 🎯 What's Next?
-
-After completing this Python foundation, my next focus areas are:
-
-* 🧩 Data Structures & Algorithms
-* 🤖 AI / Machine Learning
-* 🔐 Cybersecurity
-* 🗄️ SQL and database projects
-* 🚀 Larger Python projects
-* 💻 Competitive/problem-solving practice
-* 🌐 Building a professional GitHub portfolio
+1. Install [Python 3](https://www.python.org/downloads/).
+2. Clone the repo:
+```bash
+   git clone https://github.com/ANUGYA-byte/PYTHON-JOURNEY.git
+   cd PYTHON-JOURNEY
+```
+3. Run any program:
+```bash
+   python 03_loops/<filename>.py
+```
 
 ---
 
-## 💡 What I Learned
+## 🧠 What I Practiced
 
-The biggest takeaway from this journey is that programming is not about memorizing syntax.
+- Writing conditional logic and loops to solve problems step by step
+- Working with strings, lists, tuples and sets
+- Breaking code into reusable functions, including recursion
+- Implementing searching and sorting algorithms by hand
+- Building small user-input-driven programs
 
-It is about **understanding logic, breaking problems into smaller parts, debugging mistakes, and continuously improving.**
 
-This repository is a record of that learning process.
 
 ---
 
 ## 👩‍💻 Author
 
-**ANUGYA AGRAWAL**
+**Anugya Agrawal**, first-year B.Tech CSE (AI & ML) student.
 
-First-year B.Tech CSE (AI & ML) student building a strong foundation in programming, problem-solving, and computer science.
+Feedback and suggestions are welcome. Feel free to open an issue.
 
 ---
 
-## ⭐ Repository Goal
+## 📄 License
 
-> **Learn → Practice → Build → Improve**
-
-This repository is the beginning of my programming journey, not the end.
-
-⭐ If you find this repository useful, feel free to explore the programs and follow the journey.
-
+Released under the [MIT License](LICENSE).
