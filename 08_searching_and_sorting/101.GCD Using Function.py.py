@@ -1,7 +1,7 @@
 # ---------------------------------------
 # Description: Finds the GCD of two numbers using a function.
 # Author: Anugya Agrawal
-# Program 101: Binary Search
+# Program 101: GCD Using Function.
 
 numbers = list(map(int, input("Enter sorted numbers separated by space: ").split()))
 target = int(input("Enter the element to search: "))

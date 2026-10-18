@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 83: Right Triangle
+# Program 111: Right Triangle
 # Description: A triangle aligned to the left, growing downward with stars. 
 # Author: Anugya Agrawal
 # ---------------------------------------

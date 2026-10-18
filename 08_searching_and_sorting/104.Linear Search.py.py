@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 101: Linear Search
+# Program 104: Linear Search
 # Description: Searches for an element in a list using linear search.
 # Author: Anugya Agrawal
 # ---------------------------------------

@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 84: Left Triangle
+# Program 112: Left Triangle
 # Description:A triangle aligned to the right, stars shifted with spaces.
 # Author: Anugya Agrawal
 # ---------------------------------------

@@ -1,6 +1,6 @@
 
 # ---------------------------------------
-# Program 87:Inverted Pyramid
+# Program 115:Inverted Pyramid
 # Description:A centered triangle pointing downward, stars shrinking symmetrically
 # Author: Anugya Agrawal
 # ---------------------------------------

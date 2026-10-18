@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 86: Pyramid
+# Program 114: Pyramid
 # Description:A centered triangle with stars expanding symmetrically
 # Author: Anugya Agrawal
 # ---------------------------------------

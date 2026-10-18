@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 124: Count Vowels  
+# Program 54: Count Vowels  
 # Description: Counts the number of vowels (a, e, i, o, u) in a string 
 # Author: Anugya Agrawal
 # ---------------------------------------

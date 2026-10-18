@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 85:Inverted Triangle  
+# Program 113:Inverted Triangle  
 # Description:A triangle pointing downward, stars decreasing each row.
 # Author: Anugya Agrawal
 # ---------------------------------------

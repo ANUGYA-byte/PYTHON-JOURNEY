@@ -1,8 +1,8 @@
 # ---------------------------------------
-# Program 96: Fibonacci Using Function
+# Program 102: Fibonacci Using Function
 # Description: Prints Fibonacci series using a function.
 # Author: Anugya Agrawal
-
+# ---------------------------------------
 def fibonacci(n):
     a, b = 0, 1
     for i in range(n):

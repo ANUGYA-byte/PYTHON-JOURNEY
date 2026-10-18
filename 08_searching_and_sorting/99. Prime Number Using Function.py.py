@@ -1,5 +1,5 @@
 # ---------------------------------------
-# Program 92: Prime Number Using Function
+# Program 99: Prime Number Using Function
 # Description: Checks whether a number is prime using a function.
 # Author: Anugya Agrawal
 # ---------------------------------------
