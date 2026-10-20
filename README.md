@@ -25,15 +25,6 @@ A full list of programs is in [INDEX.pdf](INDEX.pdf).
 
 ---
 
-## 🚀 Mini Projects
-
-| # | Project | What it does |
-| - | ------- | ------------ |
-| 117 | _Project name_ | _One line describing it_ |
-| 118 | _Project name_ | _One line describing it_ |
-| 119 | _Project name_ | _One line describing it_ |
-| 120 | _Project name_ | _One line describing it_ |
-
 **Sample run:**
 
 ```
